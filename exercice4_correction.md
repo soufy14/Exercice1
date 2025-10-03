@@ -1,4 +1,4 @@
-![capture](./image/Exercice3.png) 
+![capture](./image/Exercice4.png) 
 
 - touch .configuration : j ai creer un fichier cache nommé .configuration avec touch
 - ls -a : ca permet de lister tout les elemens vusible ou cache dans le repertoire courant.
