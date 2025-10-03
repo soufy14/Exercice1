@@ -1,4 +1,4 @@
-![capture](./image/Exercice5.png) 
+![capture](./image/Exercice_5.png) 
 
 - mkdir -p projet_scolaire/maths projet_scolaire/sciences : j ai creer 2 dossier dans le dossier parent d'ou l’arborescence .
 - cd projet_scolaire/maths : se deplacer dans le sous dossier (maths).
