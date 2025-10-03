@@ -6,8 +6,12 @@
 - cd : direction vers le repertoire personnel.
 - cd projet_scolaire/sciences : se deplacer dans le sous dossier (sciences).
 - echo "eau + huile = séparation" > experiences.txt : echo permet d'afficher "eau + huile = séparation" dans le nouveau fichier , creer par ">".
-- mv experiences.txt geometrie.txt : j ai modifier le fichier experiences.txt par le fichier geometrie.txt .
-- ls : j ai lister les elements du dossier sciences .
-- mv geometrie.txt ../maths : j ai deplacer le fichier dans le dossier maths avec un remonte ../ .
+- cd .. : retornez dans le dossier precedent.
+- cd maths : se deplacer vers le dossier. 
+- mv equations.txt geometrie.txt : j ai modifier le fichier experiences.txt par le fichier geometrie.txt .
+- cd .. : retornez dans le dossier precedent.
+- cd sciences : se deplacer vers le dossier.
+- mv experiences.txt ../maths : j ai deplacer le fichier dans le dossier maths avec un remonte ../ .
 - cd : direction vers le repertoire personnel.
 - rmdir projet_scolaire/sciences : jai Supprimez le dossier sciences car il est vide avec la commande rmdir.
+-  ls projet_scolaire/ : pour lister les elments du dossier projet_scolaire .
